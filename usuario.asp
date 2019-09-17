@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
 		<title>::<%=sitenome%></title>
-		<link href="css/ag.css" rel="styleSheet" type="text/css">
+		<link href="ag.css" rel="styleSheet" type="text/css">
 		<% Response.Charset="ISO-8859-1" %>
 	</head>
 	<body style="margin: 10 10 10 10; background-color: #FFFFFF;">

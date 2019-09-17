@@ -1,0 +1,48 @@
+a {font-size: 8pt; color: #000000; font-family: tahoma, arial, sans-serif; text-decoration: none}
+a:hover {font-size: 8pt; color: #000000; font-family: tahoma, arial, sans-serif; text-decoration: none}
+td {font-size: 8pt; font-family: tahoma, arial, sans-serif}
+div {font-size: 8pt; font-family: tahoma, arial, sans-serif}
+span {font-size: 8pt; font-family: tahoma, arial, sans-serif}
+
+.font {font-family: arial, verdana; font-size: 8pt ; color: #000000; font-style: normal; font-weight: normal}
+.font:hover {font-family: arial,verdana; font-weight: none; font-size: 8pt; color: #000000; text-decoration: none;}
+.link {font-size: 8pt; color: #000000; font-family: tahoma, arial, sans-serif; text-decoration: none}
+.fundo{ background-color: #01A9E7; }
+
+.headlinetitle {font-weight: bold; font-size: 8pt}
+.clip .headlineabstract {font-size: 8pt}
+.clip .headlinetitle {font-weight: bold; font-size: 8pt}
+.textoetabelacomfundo {font-size: 8pt; color: #000000; background-color: #cccccc}
+.textoetabelacomfundo:hover {font-size: 8pt; color: #000000; background-color: #cccccc; text-decoration: none;}
+.textoetabelaatual {font-size: 8pt; color: #000000; background-color: #cccccc;}
+.textoetabelaatual:hover {font-size: 8pt; color: #000000; text-decoration: none; background-color: #cccccc;}
+.textoetabelaapagada {font-size: 8pt; color: #666666; background-color: #efefef;}
+.textoetabelaapagada:hover {font-size: 8pt; color: #666666; text-decoration: none; background-color: #efefef;}
+.tabelatitulo {font-size: 8pt; color: #ffffff; background-color: #666666}
+
+.input {font-family: sans-serif; font-size: 8pt; font-style: normal; background-color: #ffffff; border: 1px #999999 groove; color: #000000; text-align: left; text-transform: none}
+.botao {font-family: tahoma; font-size: 8pt; font-style: normal; background-color: #ffffff; border: 1px #999999 groove; color: #000063; text-align: center}
+.botaoDesab{border: 1px solid silver;background-color: #F2F2F2;font-family:Tahoma, Arial,'Times New Roman';font-size: 11px;color:#999999; padding-left:2px;}
+
+.start {font-weight: none; font-size: 8pt; color: #ffffff; font-family: verdana, arial, helvetica, sans-serif; text-decoration: none; text-align:center}
+.start:hover {font-weight: none; font-size: 8pt; color: #000000; font-family: verdana, arial, helvetica, sans-serif; text-decoration: none; text-align:center}
+.select {font-family: tahoma; font-size: 8pt; font-style: normal; background-color: #d6e7ef; border: 1px #ffffff groove; color: #000063; text-align: center}
+.normalbranca {font-family: arial, verdana; font-size: 8pt ; color: #ffffff; font-style: normal; font-weight: bold}
+.normalbranca:hover {font-family: arial,verdana; font-weight: none; font-size: 8pt; color: #ffffff; text-decoration: none;}
+
+.menu {font-size: 8pt; font-style: normal; background-color: #4d639d; color: #ffffff; text-align: left; text-decoration: none;}
+.inputdisable {font-family: sans-serif; font-size: 8pt; font-style: normal; background-color: #cccccc; border: 1px #4d639d groove; color: #000000; text-align: midle; text-transform: none}
+.menu:hover {font-size: 8pt; font-style: bold; background-color: #4d639d; color: #ffffff; text-align: left; text-decoration: none;}
+
+.white {font-size: 11px; color: #ffffff; font-family: verdana, arial, helvetica, sans-serif; text-decoration: none; background: #b59e04}
+
+
+//carrier
+
+.date {font-size: 10px; color: #666666; font-family: verdana, arial, helvetica, sans-serif}
+
+.gray {font-size: 10px; color: #666666; font-family: verdana, arial, helvetica, sans-serif}
+.btmnav {font-size: 11px; color: #4f6575; font-family: verdana, arial, helvetica, sans-serif; text-decoration: none}
+.red2 {font-weight: bold; font-size: 14px; color: #c71444; font-family: verdana, arial, helvetica, sans-serif; text-decoration: none}
+.gray2 {font-weight: normal; font-size: 10px; color: #666666; font-style: normal; font-family: verdana, arial, helvetica, sans-serif; text-decoration: none}
+
